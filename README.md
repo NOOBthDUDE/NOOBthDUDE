@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Mayank 👋
 
 <!--
 **NOOBthDUDE/NOOBthDUDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mayank-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-shekhar-b1b589203/) [![Mail Badge](https://img.shields.io/badge/-@_diablo_.__-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_diablo_.__/) [![Mail Badge](https://img.shields.io/badge/-mayankshekhar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mayankshekharntrms1@gmail.com)
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
